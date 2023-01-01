@@ -23,7 +23,7 @@ Here's how to get started:
   
 #### UPLOAD THE PLUGIN  
 1. Open your Chrome browser  
-2. Go to chrome://extensions/  
+2. Go to [chrome://extensions/](chrome://extensions/)
 3. Click on "Load unpacked"
 4. Select the 'page_scout' folder    
 
