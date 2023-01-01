@@ -14,21 +14,17 @@ While the script itself is free, you will have to pay (small) fees to OpenAI for
 Here's how to get started:
 
 SETUP FILES  
-1. 
-
-════════ ⋆★⋆ ════════
+1. Hello  
+2. Yello  
 
 SETUP YOUR OPENAI API KEY  
 1. Go to https://beta.openai.com/account/api-keys and copy your API key.  
 2. Paste your API key into the "apiKey" variable in 'background.js'. 
 3. Verify that you have added a payment method for OpenAI by going to https://beta.openai.com/account/billing/payment-methods.
 
-════════ ⋆★⋆ ════════
-
 UPLOAD THE PLUGIN  
-1.   
-
-Please note that this script must be set up for every individual Google Doc that you want to use it in. 
+1. Hello  
+2. Yello  
 
 ════════ ⋆★⋆ ════════
 
