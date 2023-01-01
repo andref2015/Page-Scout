@@ -17,12 +17,10 @@ SETUP FILES
 1. Hello  
 2. Yello  
   
-  
 SETUP YOUR OPENAI API KEY  
 1. Go to https://beta.openai.com/account/api-keys and copy your API key.  
 2. Paste your API key into the "apiKey" variable in 'background.js'. 
 3. Verify that you have added a payment method for OpenAI by going to https://beta.openai.com/account/billing/payment-methods.
-  
   
 UPLOAD THE PLUGIN  
 1. Hello  
