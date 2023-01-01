@@ -12,7 +12,10 @@ While the script itself is free, you will have to pay (small) fees to OpenAI for
 ════════ ⋆★⋆ ════════
 
 Here's how to get started: 
-  
+
+DOWNLOAD FOLDER
+1. Download [page_scout](https://github.com/andref2015/Page-Scout/tree/main/page_scout).  
+
 SETUP YOUR OPENAI API KEY  
 1. Go to https://beta.openai.com/account/api-keys and copy your API key.  
 2. Paste your API key into the "apiKey" variable in 'background.js'. 
