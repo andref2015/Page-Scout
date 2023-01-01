@@ -24,8 +24,9 @@ Here's how to get started:
 #### UPLOAD THE PLUGIN  
 1. Open your Chrome browser  
 2. Go to chrome://extensions/ (or click on Extensions -> Manage Extensions)
-3. Click on "Load unpacked"
-4. Select the 'page_scout' folder    
+3. Toggle "Developer Mode" to "on" in the top right  
+4. Click on "Load unpacked"  
+5. Select the 'page_scout' folder  
 
 ════════ ⋆★⋆ ════════
 
