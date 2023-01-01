@@ -11,11 +11,7 @@ While the script itself is free, you will have to pay (small) fees to OpenAI for
 
 ════════ ⋆★⋆ ════════
 
-Here's how to get started:
-
-SETUP FILES  
-1. Hello  
-2. Yello  
+Here's how to get started: 
   
 SETUP YOUR OPENAI API KEY  
 1. Go to https://beta.openai.com/account/api-keys and copy your API key.  
@@ -23,8 +19,10 @@ SETUP YOUR OPENAI API KEY
 3. Verify that you have added a payment method for OpenAI by going to https://beta.openai.com/account/billing/payment-methods.
   
 UPLOAD THE PLUGIN  
-1. Hello  
-2. Yello  
+1. Open your Chrome browser  
+2. Go to chrome://extensions/  
+3. Click on "Load unpacked"
+4. Select the 'page_scout' folder    
 
 ════════ ⋆★⋆ ════════
 
@@ -33,8 +31,8 @@ Enjoy the magic!
 
 ════════ ⋆★⋆ ════════
 
-In the event of any issues, try these steps to troubleshoot:
-1. Make sure you have correctly added your API key to the "Code.gs" file 
+In the event of any issues, try these steps:
+1. Make sure you have correctly added your API key to the "background.js" file 
 2. Verify that you have added a payment method for OpenAI by going to https://beta.openai.com/account/billing/payment-methods.
 
 ════════ ⋆★⋆ ════════
