@@ -1,7 +1,7 @@
 # Page Scout
 Page Scout is a Chrome extension that allows you to quickly and easily summarize any selected text on a webpage. Simply highlight the text you want to summarize and right click to select "Page Scout" from the context menu. A window will then open with a summary of the text in the form of a concise list of bullet points.
 
-![Twitter_NewYorker](https://user-images.githubusercontent.com/36070121/208753506-93e2b366-7471-4b0c-bded-6c453be7fd44.png)
+![Page Scout promotion](https://user-images.githubusercontent.com/36070121/210180400-a1267109-611f-4ad0-8216-5dda5a346584.png)
 
 ════════ ⋆★⋆ ════════
 
