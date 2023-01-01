@@ -16,12 +16,12 @@ Here's how to get started:
 #### DOWNLOAD FOLDER
 1. Download the [page_scout](https://github.com/andref2015/Page-Scout/tree/main/page_scout) folder in this repository.  
 
-### SETUP YOUR OPENAI API KEY  
+#### SETUP YOUR OPENAI API KEY  
 1. Go to https://beta.openai.com/account/api-keys and copy your API key.  
 2. Paste your API key into the "api_key" variable in 'background.js' (open the file with a text editor, e.g., TextEdit on Mac). 
 3. Verify that you have added a payment method for OpenAI by going to https://beta.openai.com/account/billing/payment-methods.
   
-## UPLOAD THE PLUGIN  
+#### UPLOAD THE PLUGIN  
 1. Open your Chrome browser  
 2. Go to chrome://extensions/  
 3. Click on "Load unpacked"
