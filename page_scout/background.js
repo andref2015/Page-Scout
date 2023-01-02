@@ -1,6 +1,6 @@
 // Find your API key at https://beta.openai.com/account/api-keys
 // Paste your API key below
-var api_key = "sk-0000000000000000000000000000000000000000";
+var api_key = "sk-00000000000000000000000000000000000000000";
 
 chrome.contextMenus.create({
     title: "Page Scout",
