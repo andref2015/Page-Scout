@@ -26,7 +26,9 @@ Here's how to get started:
 2. Go to chrome://extensions/ (or click on Extensions -> Manage Extensions)
 3. Toggle "Developer Mode" to "on" in the top right  
 4. Click on "Load unpacked"  
-5. Select the 'page_scout' folder  
+5. Select the 'page_scout' folder (NOT the 'Page-Scout-main')
+
+That's it! Open any article you (don't) want to read, then simply highlight the text you want to summarize and right click to select "Page Scout" from the context menu.
 
 ════════ ⋆★⋆ ════════
 
